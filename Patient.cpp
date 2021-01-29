@@ -45,4 +45,4 @@ void Patient::setDiagnose(Diagnose diagnose)
 }
 
 
-
+//test
