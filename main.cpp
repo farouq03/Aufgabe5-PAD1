@@ -17,7 +17,7 @@ int main()
 
     cout << "This is the change" << endl;
 
-    //BLA BLA BLA
+    //BLA BLA BLA BLA
     
     cout << endl;
 
