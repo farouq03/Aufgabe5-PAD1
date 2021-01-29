@@ -15,10 +15,7 @@ int main()
     cout << endl;
     patient1.print();
 
-    cout << "This is the change" << endl;
-
-    //BLA BLA BLA BLA
-    
+    //SHEEEEEEESSSHHHHHH
     cout << endl;
 
     return 0;
