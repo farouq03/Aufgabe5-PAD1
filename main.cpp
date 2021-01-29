@@ -15,7 +15,6 @@ int main()
     cout << endl;
     patient1.print();
 
-    //BRUUUUHHHHH
     cout << endl;
 
     return 0;
