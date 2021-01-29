@@ -15,7 +15,7 @@ int main()
     cout << endl;
     patient1.print();
 
-    //SHEEEEEEESSSHHHHHH
+    //BRUUUUHHHHH
     cout << endl;
 
     return 0;
